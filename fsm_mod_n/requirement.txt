@@ -1,0 +1,9 @@
+# Core dependencies
+# None required beyond the standard library
+
+# If you want to explicitly define the minimum Python version (optional)
+python_version >= "3.7"
+
+# For logging, unittest, and argparse – all part of standard library
+# No external packages are strictly required
+
